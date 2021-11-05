@@ -1,0 +1,23 @@
+SUPOSICIONES:
+
+--PACIENTE--
+Nombre: Mayor que 1 palabra y menor que 5 palabras.
+Edad: Mayor que 17 años y menor que 120 años.
+DNI: Mayor que 1 millón y menor que 70 millones.
+Paciente: Que no se encuentre ya registrado.
+Paciente a Eliminar: Que se encuentre registrado en la base de datos.
+--PACIENTE--
+
+--TURNO--
+DNI: Pertenece al de un paciente registrado en la base de datos.
+Hora Turno: Entre las 10am y las 2pm o en formato de 24 horas mayor que 10 y menor que 14.
+Dia Turno: Que no sea 2,8,15,22.
+Fecha Turno: Que sea una fecha valida del 2021.
+Turno: Que no sea un turno ya tomado por algun otro paciente.
+Paciente: Que no posee ya un turno.
+Turno a Eliminar: Que se encuentre registrado un turno en la base de datos del paciente.
+Suponemos que cada turno dura UNA HORA
+--TURNO--
+
+
+

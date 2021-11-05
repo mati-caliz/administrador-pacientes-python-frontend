@@ -1,0 +1,6 @@
+Maximo Alfredo;Fain Fernandez;44208676;19;10;4;11
+Camila;Della Pia;43629568;20;14;16;10
+Nathan;Drake;33444555;26;12;4;10
+Juan;Rodriguez;44555666;45;11;3;11
+Max;Magallanes;22333444;69;
+Jorge;Alvarez;11222333;70;11;4;11
